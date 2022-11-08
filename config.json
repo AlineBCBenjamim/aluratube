@@ -2,6 +2,38 @@
   "name": "Aline Benjamim",
   "job": "Web Full Stack",
   "github": "AlineBCBenjamim",
+  "favorites": [
+    {
+      "name": "Fabio Akita",
+      "nickname": "FabioAkita1990",
+      "image": "https://yt3.ggpht.com/ytc/AMLnZu-rihMwxuXoZ2IjdwvfXegytnGVYquLdSBhRf5-ZOM=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Rafaella Ballerini",
+      "nickname": "rafaellaballerini",
+      "image": "https://yt3.ggpht.com/84ALFuw4UCyfL1TyoMU77D-I6xngPjn2X0kbx2bMAyoFzWwR-utcrbDn_MuNJcroPcmU9NdGGQ=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Curso em Vídeo",
+      "nickname": "CursoemVídeo",
+      "image": "https://yt3.ggpht.com/ytc/AMLnZu9SFJaGUnZnhHBfmnrSQ_5IZObGBhia1VSMVdpTEg=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "PrograMaria",
+      "nickname": "PrograMaria",
+      "image": "https://yt3.ggpht.com/a0DyjR_X437dWFccdmg0-8Q7RViLtWYUZH-qdVdHKnYx2b6P7Kypu9-N2N5xJlZ3dOikG5CZOw=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Girl Coding",
+      "nickname": "GirlCoding/videos",
+      "image": "https://yt3.ggpht.com/J5Uvb3OLRyQ9v2pde1U7WG-ZwDv7naNtnRcvq5ypA-QNTHueJ1GpWj_sngI2zWz197b06YwJww=s88-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Nina Talks",
+      "nickname": "NinaTalksToYou",
+      "image": "https://yt3.ggpht.com/ytc/AMLnZu-3g3ZnQhNPYdJEHZaFmEyKlSyubqMSHsK1Nefx4Q=s88-c-k-c0x00ffffff-no-rj"
+    }            
+  ],
   "playlists": {
     "jogos": [
       {
