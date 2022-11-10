@@ -7,6 +7,12 @@ export const StyledFavoriteList = styled.div`
   .favorite-item {
     padding: 16px 32px 0 32px;
   }
+  .info-favorite{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
   h2 {
     font-size: 16px;
     margin-bottom: 8px;
@@ -25,7 +31,7 @@ export const StyledFavoriteList = styled.div`
   div {
     width: calc(100vw - 16px * 4);
     display: grid;
-    grid-gap: 16px;
+    grid-gap: 24px;
     grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
     grid-auto-flow: column;
     grid-auto-columns: minmax(100px, 1fr);

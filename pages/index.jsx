@@ -29,9 +29,9 @@ function HomePage() {
           setValorDoFiltro={setValorDoFiltro}
         />
         <Header />
-        <Timeline searchValue={valorDoFiltro} playlists={config.playlists}>
-          conteúdo
-        </Timeline>
+        <Timeline searchValue={valorDoFiltro} playlists={config.playlists}/>
+        <FavoriteList favorites={config.favorites} />
+        
       </div>
     </>
   );
@@ -135,7 +135,7 @@ function FavoriteList(props) {
       <div className="favorite-item">
         {props.favorites.map((favorite, index) => {
           return (
-            <section key={index}>
+            <section className="info-favorite" key={index}>
               <a
                 href={`https://www.youtube.com/user/${favorite.nickname}`}
                 target="_blank"
